@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://12-roofing-apexcrest.netlify.app/sitemap.xml
