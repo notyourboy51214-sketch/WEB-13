@@ -8,10 +8,10 @@
   --text-dark: #18181B;
   --text-light: #FFFFFF;
   --accent: #34D399;
-  --font-display: 'Cinzel', serif;
-  --font-body: 'Lato', sans-serif;
-  --border-radius: 18px;
-  --box-shadow: none;
+  --font-display: 'DM Serif Display', serif;
+  --font-body: 'DM Sans', sans-serif;
+  --border-radius: 10px;
+  --box-shadow: 8px 8px 0px 0px var(--primary);
   --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
